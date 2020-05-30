@@ -1,0 +1,4 @@
+﻿demand/~$*.docx
+demand/*/~$*.docx
+_site/*
+Gemfile.lock

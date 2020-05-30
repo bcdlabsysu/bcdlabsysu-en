@@ -1,0 +1,29 @@
+main:
+  - title: 新闻
+    url: /developments/
+  - title: 项目
+    url: /research_projects/
+  - title: 论文
+    url: /research_papers/
+  - title: 成员
+    url: /fellow/
+  - title: 合作
+    url: /collaborators/
+  - title: 联系我们
+    url: /contact_us/
+
+docs:
+  - title: 首页
+    url: /
+  - title: 新闻
+    url: /developments/
+  - title: 项目
+    url: /research_projects/
+  - title: 论文
+    url: /research_papers/
+  - title: 成员
+    url: /fellow/
+  - title: 合作
+    url: /collaborators/
+  - title: 联系我们
+    url: /contact_us/
