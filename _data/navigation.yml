@@ -1,15 +1,15 @@
 main:
   - title: Developments
     url: /developments/
-  - title: Research projects
+  - title: Projects
     url: /research_projects/
-  - title: Research papers
+  - title: Papers
     url: /research_papers/
   - title: Fellow
     url: /fellow/
   - title: Collaborators
     url: /collaborators/
-  - title: contact us
+  - title: Contact us
     url: /contact_us/
   - title: 中文版
     url: https://bcdlabsysu.github.io/bcdlabsysu/
@@ -17,15 +17,15 @@ main:
 docs:
   - title: Developments
     url: /developments/
-  - title: Research projects
+  - title: Projects
     url: /research_projects/
-  - title: Research papers
+  - title: Papers
     url: /research_papers/
   - title: Fellow
     url: /fellow/
   - title: Collaborators
     url: /collaborators/
-  - title: contact us
+  - title: Contact us
     url: /contact_us/
   - title: 中文版
     url: https://bcdlabsysu.github.io/bcdlabsysu/
