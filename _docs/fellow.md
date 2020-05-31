@@ -10,7 +10,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 
 ## 牟毅
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/牟毅.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/牟毅.jpg){:height="40%" width="40%"}
 
 - Email: mouyi5@mail.sysu.edu.cn
 
@@ -25,7 +25,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 李雪岩
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/李雪岩.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/李雪岩.jpg){:height="40%" width="40%"}
 
 - Email: lixy563@mail.sysu.edu.cn
 
@@ -42,7 +42,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 
 ## 郭芳芳
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/郭芳芳.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/郭芳芳.jpg){:height="40%" width="40%"}
 
 - Email: guoff3@mail2.sysu.edu.cn
 
@@ -51,7 +51,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 蒋映盈
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/蒋映盈.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/蒋映盈.jpg){:height="40%" width="40%"}
 
 - Email: jiangyy39@mail2.sysu.edu.cn
 
@@ -59,7 +59,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 李沛沛
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/李沛沛.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/李沛沛.jpg){:height="40%" width="40%"}
 
 - Email: lipeipei@gd.chinamobile.com
 
@@ -68,7 +68,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 刘美莹
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/刘美莹1.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/刘美莹1.jpg){:height="40%" width="40%"}
 
 - Email: 461024083@qq.com
 
@@ -76,7 +76,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 刘珊
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/刘珊.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/刘珊.jpg){:height="40%" width="40%"}
 
 - Email: liush279@mail2.sysu.edu.cn
 
@@ -84,7 +84,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 马宜妹
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/马宜妹.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/马宜妹.jpg){:height="40%" width="40%"}
 
 - Email: maym5@mail2.sysu.edu.cn
 
@@ -92,7 +92,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 毛伙敏
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/毛伙敏1.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/毛伙敏1.jpg){:height="40%" width="40%"}
 
 - Email: maohm@mail2.sysu.edu.cn
 
@@ -101,13 +101,13 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 娜菲沙·阿布都麦明
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/娜菲沙.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/娜菲沙.jpg){:height="40%" width="40%"}
 
 就读于中大心理系，2018级专硕。我喜欢看剧看书，偶尔会去游泳，很喜欢和小朋友打交道。目前的研究兴趣是文化和语言差异对儿童数理认知发展的影响。
 <br>
 ## 曾丽萍
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/曾丽萍.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/曾丽萍.jpg){:height="40%" width="40%"}
 
 - Email:victory88855@126.com
 
@@ -115,7 +115,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 周玲
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/周玲.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/周玲.jpg){:height="40%" width="40%"}
 
 - Email: zhouling000@foxmail.com
 
@@ -125,7 +125,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 
 ## 敖睿
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/敖睿.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/敖睿.jpg){:height="40%" width="40%"}
 
 - Email: aorui3@mail2.sysu.edu.cn
 
@@ -133,7 +133,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 陈光
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/陈光.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/陈光.jpg){:height="40%" width="40%"}
 
 - Email: 825999464@qq.com
 
@@ -141,7 +141,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 陈诗婷
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/陈诗婷.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/陈诗婷.jpg){:height="40%" width="40%"}
 
 - Email: avrinchen2017@163.com
 
@@ -149,7 +149,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 李和泽
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/李和泽.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/李和泽.jpg){:height="40%" width="40%"}
 
 - Email: 1192409005@qq.com
 
@@ -157,7 +157,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 李嘉锡（大气学院）
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/李嘉锡1.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/李嘉锡1.jpg){:height="40%" width="40%"}
 
 - Email：lijiaxisysu@foxmail.com
 
@@ -165,7 +165,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 刘梦婷
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/刘梦婷.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/刘梦婷.jpg){:height="40%" width="40%"}
 
 - Email: liumt8@mail2.sysu.edu.cn
 
@@ -173,7 +173,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 刘琴
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/刘琴.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/刘琴.jpg){:height="40%" width="40%"}
 
 - Email: liuq258@mail2.sysu.edu.cn
 
@@ -182,7 +182,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 吕建相
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/吕建相.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/吕建相.jpg){:height="40%" width="40%"}
 
 - Email: lvjx6@mail2.sysu.edu.cn
 
@@ -190,7 +190,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 张婉婷
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/张婉婷.jpg){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/张婉婷.jpg){:height="40%" width="40%"}
 
 - Email: zhangwt37@mail2.sysu.edu.cn
 
