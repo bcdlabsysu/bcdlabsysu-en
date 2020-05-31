@@ -1,29 +1,31 @@
 main:
-  - title: 新闻
+  - title: Developments
     url: /developments/
-  - title: 项目
+  - title: Research projects
     url: /research_projects/
-  - title: 论文
+  - title: Research papers
     url: /research_papers/
-  - title: 成员
+  - title: Fellow
     url: /fellow/
-  - title: 合作
+  - title: Collaborators
     url: /collaborators/
-  - title: 联系我们
+  - title: contact us
     url: /contact_us/
+  - title: 中文版
+    url: https://bcdlabsysu.github.io/bcdlabsysu/
 
 docs:
-  - title: 首页
-    url: /
-  - title: 新闻
+  - title: Developments
     url: /developments/
-  - title: 项目
+  - title: Research projects
     url: /research_projects/
-  - title: 论文
+  - title: Research papers
     url: /research_papers/
-  - title: 成员
+  - title: Fellow
     url: /fellow/
-  - title: 合作
+  - title: Collaborators
     url: /collaborators/
-  - title: 联系我们
+  - title: contact us
     url: /contact_us/
+  - title: 中文版
+    url: https://bcdlabsysu.github.io/bcdlabsysu/
