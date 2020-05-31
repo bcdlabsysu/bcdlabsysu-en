@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "脑与认知发展实验室 <br /> Brain and Cognitive Development Lab"
+title                    : "Brain and Cognitive Development Lab"
 title_separator          : "-"
 logo                     : # "/assert/images/lab_name.jpg"
 name                     : "BCD lab"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : " "
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "脑与认知发展实验室 <br> Brain and Cognitive Development Lab"
+  bio              : # "Brain and Cognitive Development Lab"
   location         : # "Somewhere"
   email            : 
   uri              : # http://222.200.170.55:8081/
