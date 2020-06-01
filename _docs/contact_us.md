@@ -24,7 +24,7 @@ Students sign up for [joining lab](http://www.wjx.top/m/31474167.aspx)
 
 ## Address：
 
-[East Campus South building Room 205, Sun Yat-sen University, Higher Education Mega Center, Panyu District, Guangzhou, Guangdong Province, China](https://f.amap.com/2Tm8u_0036Lcb)
+[East Campus South Building Room 205, Sun Yat-sen University, Higher Education Mega Center, Panyu District, Guangzhou, Guangdong Province, China](https://f.amap.com/2Tm8u_0036Lcb)
 
 <iframe width='560' height='440' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' src='https://f.amap.com/2Tm8u_0036Lcb'></iframe>
 
