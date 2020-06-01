@@ -12,6 +12,6 @@ We utilize various experimental methods to explore children's cognitive capaciti
 
 Thank you for your interest and support!
 
-If you or your child(ren) would like to participate in our studies, [click here！](https://bcdlabsysu.github.io/bcdlabsysu/contact_us/)
+If you and/or your child(ren) would like to participate in our studies, [click here！](https://bcdlabsysu.github.io/bcdlabsysu/contact_us/)
 
 If you would like to join our lab, [click here！](https://bcdlabsysu.github.io/bcdlabsysu/contact_us/)
