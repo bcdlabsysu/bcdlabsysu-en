@@ -1,17 +1,17 @@
 ---
 permalink: /
-last_modified_at: 2019-03-07T20:00:00+08:00
+last_modified_at: 2020-06-01T20:00:00+08:00
 
 
 ---
 
 <br>
-脑与认知发展实验室（Brain and Cognitive Development Lab)主要研究数、空间和逻辑推理等认知能力从婴儿到成人的发展变化。比如，我们通过研究来了解小宝宝还不会说话时能不能区分数量多少；两三岁的孩子是如何学数数和进行空间推理的；这些能力跟孩子入学后的学习表现有什么样的关系；家长的教育教养方式对儿童认知发展的影响；不同文化/语言环境中儿童和成人认知发展的异同等等。
+Brain and Cognitive Development Lab mainly focuses on the cognitive development such as numerical competence, spatial capacities, and logical reasoning among infants, children, adolescents, and adults. For example, we conduct studies to examine whether newborns, who are yet nonverbal, can distinguish small numbers from big numbers; how 2- to 3-year-old children learn counting and spatial reasoning; how these capacities predict children's academic achievement in primary school; how parenting styles impact children's cognitive development; and cognitive developmental similarities and differences among children and adults with different cultural/language background.
 
-我们使用行为和脑电等多种实验方法来研究孩子的认知能力。这些研究一般在心理系实验室、幼儿园或医护机构由研究人员和孩子一对一进行。
-     
-感谢您对我们研究的关注和支持！
+We utilize various experimental methods to explore children's cognitive capacities such as conducting behavioral experiments and EEG studies. These studies mainly take place in labotories in Psychology department in Sun Yat-sen University, kindergartens, or medical institutions. Studies are conducted in one-on-one style between experimenter and child.
 
-如果您自己或者您想带孩子来参加我们的研究，[请点击这里！](https://bcdlabsysu.github.io/bcdlabsysu/contact_us/)
+Thank you for your interest and support!
 
-如果您是学生，想加入我们实验室工作学习，[请点击这里！](https://bcdlabsysu.github.io/bcdlabsysu/contact_us/)
+If you or your child(ren) would like to participate in our studies, [click here！](https://bcdlabsysu.github.io/bcdlabsysu/contact_us/)
+
+If you would like to join our lab, [click here！](https://bcdlabsysu.github.io/bcdlabsysu/contact_us/)
