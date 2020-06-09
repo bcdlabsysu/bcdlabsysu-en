@@ -35,7 +35,7 @@ Education background：
 
 - 2020-present  Post-doc in Psychology, Sun Yat-sen University
 
-- 2016-2020 Ph.D. Educational Psychology, University of Arizona, USA
+- 2016-2019 Ph.D. Educational Psychology, University of Arizona, USA
 
 
 # 研究生(按姓氏字母排序)
