@@ -207,10 +207,10 @@ I'm an undergraduate and ready to be a graduate student in 2020. My current proj
 
 
 
-# 实验室本科/研究生毕业生(按姓氏字母排序)
+# Graduated lab members include undergraduates and graduates (in alphabetical order by last name)
 
-## 2016级本科：  
-## 2015级本科：  陈光  贺文珍  吕建相  毛伙敏
+## Undergraduates (Class of 2020):  
+## Undergraduates (Class of 2019)：  Guang Chen, Wenzhen He, Jianxiang Lv, Huomin Mao
 
 
 
