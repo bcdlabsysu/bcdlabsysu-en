@@ -38,9 +38,9 @@ Education background：
 - 2016-2019 Ph.D. Educational Psychology, University of Arizona, USA
 
 
-# 研究生(按姓氏字母排序)
+# Master Students (in alphabetical order by last name)
 
-## Guo, fangfang
+## Guo, Fangfang
 
 ![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/郭芳芳.jpg){:height="40%" width="40%"}
 
@@ -126,7 +126,7 @@ An undergraduate student in applied meteorology, School of Atmospheric Science, 
 
 My master program started in 2019. I’m optimistic and cheerful, kind and generous. Research interests: the cognitive and brain mechanisms of mathematical development; the effects of the representation and processing of integer/fraction quantity information on mathematical development; and the factors of mathematical learning difficulties. In the future, I hope to explore people's number cognition further, and promote the mathematical education.
 
-# 本科生(按姓氏字母排序)
+# Undergraduates (in alphabetical order by last name)
 
 ## Ao, Rui
 
