@@ -1,14 +1,14 @@
 ---
 permalink: /fellow/
-title: "成员"
-last_modified_at: 2020-05-19T19:00:00+08:00
+title: "Fellow"
+last_modified_at: 2020-06-09T19:00:00+08:00
 
 
 ---
 
-# 研究人员
+# Fellow
 
-## 牟毅
+## Mou, Yi
 
 ![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/牟毅.jpg){:height="40%" width="40%"}
 
@@ -23,39 +23,40 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 - 2014-2017 美国伊利诺大学香槟校区心理学系（博士后）
 
 <br>
-## 李雪岩
+## Li, Xueyan
 
 ![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/李雪岩.jpg){:height="40%" width="40%"}
 
 - Email: lixy563@mail.sysu.edu.cn
 
-研究方向有成人及儿童的情绪调节与发展；自闭症儿童的认知发展；自闭症儿童的情绪识别、调节、发展。
+Interest areas include child emotion regulation, adult emotion regulation strategy use, and emotion and cognitive development among ASD children.
 
-学习经历：
+Education background：
 
-- 2020-至今  中山大学心理学系博士后研究员
+- 2020-present  Post-doc in Psychology, Sun Yat-sen University
 
-- 2016-2020 美国 亚利桑那大学 教育心理学系 博士
+- 2016-2020 Ph.D. Educational Psychology, University of Arizona, USA
 
 
 # 研究生(按姓氏字母排序)
 
-## 郭芳芳
+## Guo, fangfang
 
 ![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/郭芳芳.jpg){:height="40%" width="40%"}
 
 - Email: guoff3@mail2.sysu.edu.cn
 
-2019级应用心理硕士研究生。喜欢小孩，向往自然。感兴趣的研究方向：孤独症谱系障碍（ASD）儿童的行为干预；以家长为媒介的行为干预及其可行性；孤独症谱系障碍人士的核心缺陷及其潜在认知机制。计划在研究生阶段系统学习孤独症谱系障碍和应用行为分析，希望未来能够深入探究ASD缺陷的机制、探索更多有效且实用的干预方法，以期帮助有需要的特殊人士。[个人简历请见](https://bcdlabsysu.github.io/bcdlabsysu/news/guofangfangcv.md/)
+A master student in Applied Psychology (class of 2021). I love children and yearn for nature. My research interests are:(1) Intervention for Children with Autism Spectrum Disorder(ASD), such as on Joint Attention Intervention; (2) the Acceptability and Feasibility of Parent-Mediated Intervention for ASD; (3) Core Deficits and Their Potential Cognitive Mechanisms in children with ASD. I plan to systematically study ASD and applied behavior analysis in my master program, hoping to further explore the mechanism of deficits of ASD and explore more effective and practical interventions in order to help people in need.[Click for CV](https://bcdlabsysu.github.io/bcdlabsysu/news/guofangfangcv.md/)
 
 <br>
-## 蒋映盈
+## Jiang, Yingying
 
 ![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/蒋映盈.jpg){:height="40%" width="40%"}
 
 - Email: jiangyy39@mail2.sysu.edu.cn
 
-2018级硕士研究生，一个吃不了太辣的四川人。 我感兴趣的研究方向是儿童珠心算学习与其常规数学学习之间心理机制上的差异、珠心算训练是否能促进学习者符号与非符号之间的转换能力、珠心算学习对于注意缺陷障碍（ADD）个体是否有积极的干预效果；gesture在儿童数学学习过程中所扮演的角色及其认知机制；以及个体早期非言语数认知能力之一近似数量系统（ANS）和未来数学学习之间真正的关系和不同ANS测量任务对于二者关系的影响。十分期待未来有更多小伙伴加入BCD Lab！
+The research topics that I’m interested in are the mental-mechanism differences between children’s learning mental abacus calculation (MAC) and learning formal mathematical skills; whether MAC learning has positive effect on individual’s ability of mapping symbolic and non-symbolic representations; and whether MAC is an effective intervention for individuals with ADHD. I am also interested in what role gesture plays in the process of math learning and its relevant cognitive mechanisms and the real link between one of the innate non-verbal numerical cognition (i.e., the approximate number system (ANS)) and children’s later math learning. Come and join us! 
+
 <br>
 ## 李沛沛
 
@@ -66,13 +67,14 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 2018级硕士研究生（单考班），现就职于中国移动集团中移在线服务有限公司，全国五一巾帼标兵，国家三级心理咨询师，家有萌宝一枚，成长型家庭教育实践者，个人公众号“麦田起舞”，专注女性个人成长分享及儿童教育心理学知识普及。
 热爱心理学，尤其儿童发展心理学，感兴趣的研究方向为：儿童数学与空间逻辑认知发展、儿童智力发展、儿童数能力与语言能力、性别差异及家庭学校教育方式等方面的关系。
 <br>
-## 刘美莹
+##  Liu, Meiying
 
 ![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/刘美莹1.jpg){:height="40%" width="40%"}
 
 - Email: 461024083@qq.com
 
-19级应用心理硕士研究生。是一个超级爱笑的四川姑娘，非常喜欢和小朋友相处，对世界充满好奇和耐心。目前的研究兴趣是神经发育障碍儿童（特别是孤独症谱系障碍儿童）的评估和干预。孤独症儿童被称为“来自星星的儿童”，我希望自己可以做那个读懂星星的人。希望可以遇到志同道合的朋友，一起做研究鸭！
+A master student in applied psychology. I am an optimistic and outgoing girl from Sichuan province,  who likes to get along with children and is full of curiosity and patience with the world. My current research interest is in the evaluation and intervention of children with neuro- developmental disorders, especially those with autism spectrum disorders. Children with autism are called "children from the stars". I hope I can be the one who can read the stars. Hope to meet like-minded friends and do research together!
+
 <br>
 ## 刘珊
 
@@ -81,23 +83,26 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 - Email: liush279@mail2.sysu.edu.cn
 
  2019级学硕。本科期间就读于市场营销专业。2013年至2018年在金宝贝国际早教工作，主要负责早教中心的管理及运营。选择跨入心理学是因为过去几年的工作中跟0-3岁孩子接触很多，激发了我对发展心理学的兴趣。非常渴望从这门学科中探索更多儿童成长的奥秘，也希望在BCD lad与伙伴们共同学习和探讨儿童研究的心理学方法。
+ 
 <br>
-## 马宜妹
+## Ma, Yimei
 
 ![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/马宜妹.jpg){:height="40%" width="40%"}
 
 - Email: maym5@mail2.sysu.edu.cn
 
-2019级心理学系专业硕士。我来自广东汕头，喜欢与小朋友交流，愿意当他们的朋友。我感兴趣的方向是发展心理学与认知心理学。毕业后我打算从事教育教研工作，致力于设计出更加符合学习者认知的教材。同时我也对咨询方向感兴趣。很高兴能跟着老师，与小组成员一起进步！
+Ma is a master student in psychology, holds a bachelor’s degree in English, and is now working in BCD lab. 
+She is interested in origins and development of concept and reasoning of human beings. Her recent work uses behavioral methods to probe pre-school children’s knowledge of natural number, especially numerical symbols and ordinality.
+Ma dedicates herself to better teaching and learning, and is now researching and developing mathematical textbook for preschool children.
+
 <br>
-## 毛伙敏
+## Mao, Huomin
 
 ![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/毛伙敏1.jpg){:height="40%" width="40%"}
 
 - Email: maohm@mail2.sysu.edu.cn
 
-生产地是广东。2015年起在中山大学心理学系念本科，对世界充满好奇心，觉得“满足好奇心的过程十分快乐”。
-目前对数学史以及儿童认知能力发展的城乡差异领域感兴趣。[个人简历请见](https://bcdlabsysu.github.io/bcdlabsysu/news/maohuomincv.md/)
+An undergraduate student in applied meteorology, School of Atmospheric Science, SUN YAT-SEN University, class of 2020. My research interests mainly focus on the development of mathematical abilities in people with ASD, language development of ASD individuals, and functioning and quality of life in autism.[Click for CV](https://bcdlabsysu.github.io/bcdlabsysu/news/maohuomincv.md/)
 <br>
 ## 娜菲沙·阿布都麦明
 
@@ -113,23 +118,23 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 
 18级应用心理学硕士研究生（单考班），高中教师，喜欢阅读文学，心理学，哲学等书籍，爱好瑜伽，爬山等，感兴趣的研究方向为：学校心理（学习动机、心理健康教育），青少年情绪障碍与心理健康，社会心理（亲密关系、两性差异等）。
 <br>
-## 周玲
+## Zhou, Ling
 
 ![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/周玲.jpg){:height="40%" width="40%"}
 
 - Email: zhouling000@foxmail.com
 
-2019级专业硕士研究生。活泼开朗、善良大方，非常喜欢儿童。研究兴趣：数学能力发展的认知及脑机制研究、整数/分数数量信息的表征和加工对数学能力发展的影响以及数学学习困难的相关研究。希望在未来能够深入探索人们的数认知，推进数认知方面的教育研究和实践。
+My master program started in 2019. I’m optimistic and cheerful, kind and generous. Research interests: the cognitive and brain mechanisms of mathematical development; the effects of the representation and processing of integer/fraction quantity information on mathematical development; and the factors of mathematical learning difficulties. In the future, I hope to explore people's number cognition further, and promote the mathematical education.
 
 # 本科生(按姓氏字母排序)
 
-## 敖睿
+## Ao, Rui
 
 ![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/敖睿.jpg){:height="40%" width="40%"}
 
 - Email: aorui3@mail2.sysu.edu.cn
 
-中山大学2017级本科生，学过发展心理学，实验心理学等课程，喜欢打篮球、游泳和画画。对发展心理学很感兴趣，将来也打算走发展心理学的方向。[个人简历请见](https://bcdlabsysu.github.io/bcdlabsysu/news/aoruicv.md/)
+中山大学2017级本科生，学过发展心理学，实验心理学等课程，喜欢打篮球、游泳和画画。对发展心理学很感兴趣，将来也打算走发展心理学的方向。[Click for CV](https://bcdlabsysu.github.io/bcdlabsysu/news/aoruicv.md/)
 <br>
 ## 陈光
 
@@ -155,30 +160,33 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 
 中山大学2016级的心理学系本科生，目前在牟毅老师的儿童脑和认知发展实验室学习。主修为心理，选修过发展心理学、实验心理学、认知心理学、意识及神经基础、早期智力开发等科目。除了实验室主要的儿童数理能力发展的研究方向以外，还对儿童肢体语言和数字理解之间的关系有一定兴趣，例如比划数字是否增强（辅助）对数数的理解。
 <br>
-## 李嘉锡（大气学院）
+## Li, Jiaxi（School of Atmospheric Sciences）
 
 ![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/李嘉锡1.jpg){:height="40%" width="40%"}
 
 - Email：lijiaxisysu@foxmail.com
 
-中山大学2016级大气科学学院应用气象专业本科生。希望发挥在大气科学领域所习得的统计分析技术、所培养的对于数据的敏感性，在未来的心理学学习乃至工作中走的更远。感兴趣的领域是儿童的智能发展、基于应用行为分析的孤独症儿童早期密集干预、孤独症儿童的数能力发展、孤独症儿童的视觉信息处理、孤独症儿童的执行功能；期待在未来有机会探索基于机器学习和人工智能的孤独症儿童能力评估方法、人工智能与孤独症疗育的结合等。[个人简历请见](https://bcdlabsysu.github.io/bcdlabsysu/news/Lijiaxicv.md/)
+中山大学2016级大气科学学院应用气象专业本科生。希望发挥在大气科学领域所习得的统计分析技术、所培养的对于数据的敏感性，在未来的心理学学习乃至工作中走的更远。感兴趣的领域是儿童的智能发展、基于应用行为分析的孤独症儿童早期密集干预、孤独症儿童的数能力发展、孤独症儿童的视觉信息处理、孤独症儿童的执行功能；期待在未来有机会探索基于机器学习和人工智能的孤独症儿童能力评估方法、人工智能与孤独症疗育的结合等。[Click for CV](https://bcdlabsysu.github.io/bcdlabsysu/news/Lijiaxicv.md/)
+
 <br>
-## 刘梦婷
+## Liu, Mengting
 
 ![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/刘梦婷.jpg){:height="40%" width="40%"}
 
 - Email: liumt8@mail2.sysu.edu.cn
 
-16级本科生，集软妹子与硬汉子于一身。 主要感兴趣的研究方向：非符号化数量的跨感觉通道表征和加工及其认知神经机制，婴幼儿的数认知发展（如孤独症儿童与常态儿童数认知发展的差异），以及计算机等新型机器在心理学方面的应用。
+An undergraduate student (class of 2020), sometimes a girly girl and sometimes a tomboy. Research interests: the representation and processing of non-symbolized quantities across sensory channels and their cognitive neural mechanisms; number cognitive development in infants and young children (e.g., the difference in number cognitive development between autistic children and typically developing children); and the application of new machines such as computers in psychology.
+
 <br>
-## 刘琴
+## Liu, Qin
 
 ![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/刘琴.jpg){:height="40%" width="40%"}
 
 - Email: liuq258@mail2.sysu.edu.cn
 
-我叫刘琴。我所关注的课题是儿童的认知发展，尤其是儿童早期数学能力的发展规律和认知机制。
-我正在进行数发展领域的一些研究：一是主要用行为方法来研究婴儿的数字认知发展，即数字辨别能力随年龄的发展趋势;另一项研究着眼于高功能自闭症儿童的数字能力，以及他们与正常儿童的不同和相似之处;符号和非符号的定量表征是数学领域的一个重要研究方向。虽然分数是教育的一大难题，但受到的关注度很低。我对分数的非符号化与知识符号化之间的关系也非常感兴趣，最近也在整理相关知识，并撰写相关综述。由于兴趣的不断增长，我想在研究生期间继续从事儿童认知发展的研究，并拓展到认知神经科学领域。
+My name is Liu Qin. The topic I am focusing on is the cognitive development of children, especially the development and cognitive mechanisms of mathematical ability in early childhood. 
+I am doing two research in the field of mathematical development. One mainly uses behavior method to study the number cognitive development among infants, that is, the development trend of number differentiation ability with age; another study looks at the numerical abilities of high-functioning autistic children, and how they are different and similar to typically developing children. The study of symbolic and non-symbolic quantitative representation is a major focus in the field of mathematics. Although the fraction is a major difficulty in education, it has received little attention. I am deeply interested in the relationship between the non-symbolization of fractions and symbolized knowledge and I am working on a related review recently. Due to my growing interest, I would like to continue to do research on children's cognitive development during my graduate study and expand into the field of cognitive neuroscience.
+
 <br>
 ## 吕建相
 
@@ -187,14 +195,15 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 - Email: lvjx6@mail2.sysu.edu.cn
 
 2015级本科生。主要的研究兴趣是婴幼儿逻辑推理（如婴儿什么时候能进行传递性推理，儿童的推理能力与数学学习的关系），婴幼儿对零的理解（如儿童什么时候才能把零当作是数字中的一员），儿童分数学习的特点等。
+
 <br>
-## 张婉婷
+## Zhang, Wanting
 
 ![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/张婉婷.jpg){:height="40%" width="40%"}
 
 - Email: zhangwt37@mail2.sysu.edu.cn
 
-我是16级本科生。目前正在开展的项目为分数的认知发展，主要探讨分数的符号与非符号表征。主要研究兴趣包含感兴趣的方面有：数认知、学习和数学教育（包括加强概念理解和兴趣培养等）。
+I'm an undergraduate and ready to be a graduate student in 2020. My current project is about the cognitive development of fractions, focusing on the representation of symbolic and non-symbolic fractions. Main research interests include numerical cognition, learning, and mathematics education (including strengthening conceptual understanding and interest cultivation).
 
 
 
