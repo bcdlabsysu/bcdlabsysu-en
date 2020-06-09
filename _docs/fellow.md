@@ -102,7 +102,7 @@ Ma dedicates herself to better teaching and learning, and is now researching and
 
 - Email: maohm@mail2.sysu.edu.cn
 
-An undergraduate student in applied meteorology, School of Atmospheric Science, SUN YAT-SEN University, class of 2020. My research interests mainly focus on the development of mathematical abilities in people with ASD, language development of ASD individuals, and functioning and quality of life in autism.[Click for CV](https://bcdlabsysu.github.io/bcdlabsysu/news/maohuomincv.md/)
+My name is Huomin Mao, I am interested in developmental psychology.[Click for CV](https://bcdlabsysu.github.io/bcdlabsysu/news/maohuomincv.md/)
 <br>
 ## 娜菲沙·阿布都麦明
 
@@ -166,7 +166,7 @@ My master program started in 2019. I’m optimistic and cheerful, kind and gener
 
 - Email：lijiaxisysu@foxmail.com
 
-中山大学2016级大气科学学院应用气象专业本科生。希望发挥在大气科学领域所习得的统计分析技术、所培养的对于数据的敏感性，在未来的心理学学习乃至工作中走的更远。感兴趣的领域是儿童的智能发展、基于应用行为分析的孤独症儿童早期密集干预、孤独症儿童的数能力发展、孤独症儿童的视觉信息处理、孤独症儿童的执行功能；期待在未来有机会探索基于机器学习和人工智能的孤独症儿童能力评估方法、人工智能与孤独症疗育的结合等。[Click for CV](https://bcdlabsysu.github.io/bcdlabsysu/news/Lijiaxicv.md/)
+An undergraduate student in applied meteorology, School of Atmospheric Science, SUN YAT-SEN University, class of 2020. My research interests mainly focus on the development of mathematical abilities in people with ASD, language development of ASD individuals, and functioning and quality of life in autism.[Click for CV](https://bcdlabsysu.github.io/bcdlabsysu/news/Lijiaxicv.md/)
 
 <br>
 ## Liu, Mengting
