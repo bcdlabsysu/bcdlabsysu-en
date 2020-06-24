@@ -95,6 +95,26 @@ A master student in applied psychology. I am an optimistic and outgoing girl fro
  2019级学硕。本科期间就读于市场营销专业。2013年至2018年在金宝贝国际早教工作，主要负责早教中心的管理及运营。选择跨入心理学是因为过去几年的工作中跟0-3岁孩子接触很多，激发了我对发展心理学的兴趣。非常渴望从这门学科中探索更多儿童成长的奥秘，也希望在BCD lad与伙伴们共同学习和探讨儿童研究的心理学方法。
  
 <br>
+## Liu, Qin
+
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/刘琴.jpg){:height="40%" width="40%"}
+
+- Email: liuq258@mail2.sysu.edu.cn
+
+My name is Liu Qin. I am a master student in psychology, class of 2023. The topic I am focusing on is the cognitive development of children, especially the development and cognitive mechanisms of mathematical ability in early childhood. I would like to continue to do research on children's cognitive development during my graduate study and expand into the field of cognitive neuroscience.
+I am doing two research in the field of mathematical development. One mainly uses behavior method to study the number cognitive development among infants, that is, the development trend of number differentiation ability with age; another study looks at the numerical abilities of high-functioning autistic children, and how they are different and similar to typically developing children. The study of symbolic and non-symbolic quantitative representation is a major focus in the field of mathematics. Although the fraction is a major difficulty in education, it has received little attention. I am deeply interested in the relationship between the non-symbolization of fractions and symbolized knowledge and I am working on a related review recently. 
+
+
+<br>
+## 吕建相
+
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/吕建相.jpg){:height="40%" width="40%"}
+
+- Email: lvjx6@mail2.sysu.edu.cn
+
+2020级学硕。主要的研究兴趣是婴幼儿逻辑推理（如婴儿什么时候能进行传递性推理，儿童的推理能力与数学学习的关系），婴幼儿对零的理解（如儿童什么时候才能把零当作是数字中的一员），儿童分数学习的特点等。
+
+<br>
 ## Ma, Yimei
 
 ![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/马宜妹.jpg){:height="40%" width="40%"}
@@ -150,6 +170,15 @@ I want to get engaged in children's mathematics teaching and curriculum developm
 - Email:2901493954@qq.com
 
 I am a master student in Applied Psychology, class of 2022. I enjoy getting along with children and have hope and goodwill towards the world and others. During my undergraduate years, I explored my interest in psychology, and now I am more interested in behavioral intervention for individuals with autism spectrum disorder. I will mainly study and explore the rehabilitation education methods for children with autism spectrum disorder in my master years and plan to devote myself to the special children education in the future.
+
+<br>
+## Zhang, Wanting
+
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/张婉婷.jpg){:height="40%" width="40%"}
+
+- Email: zhangwt37@mail2.sysu.edu.cn
+
+I'm an undergraduate and ready to be a graduate student in 2020. My current project is about the cognitive development of fractions, focusing on the representation of symbolic and non-symbolic fractions. Main research interests include numerical cognition, learning, and mathematics education (including strengthening conceptual understanding and interest cultivation).
 
 <br>
 ## Zhou, Ling
@@ -210,35 +239,6 @@ An undergraduate student in applied meteorology, School of Atmospheric Science, 
 - Email: liumt8@mail2.sysu.edu.cn
 
 An undergraduate student (class of 2020), sometimes a girly girl and sometimes a tomboy. Research interests: the representation and processing of non-symbolized quantities across sensory channels and their cognitive neural mechanisms; number cognitive development in infants and young children (e.g., the difference in number cognitive development between autistic children and typically developing children); and the application of new machines such as computers in psychology.
-
-<br>
-## Liu, Qin
-
-![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/刘琴.jpg){:height="40%" width="40%"}
-
-- Email: liuq258@mail2.sysu.edu.cn
-
-My name is Liu Qin. The topic I am focusing on is the cognitive development of children, especially the development and cognitive mechanisms of mathematical ability in early childhood. 
-I am doing two research in the field of mathematical development. One mainly uses behavior method to study the number cognitive development among infants, that is, the development trend of number differentiation ability with age; another study looks at the numerical abilities of high-functioning autistic children, and how they are different and similar to typically developing children. The study of symbolic and non-symbolic quantitative representation is a major focus in the field of mathematics. Although the fraction is a major difficulty in education, it has received little attention. I am deeply interested in the relationship between the non-symbolization of fractions and symbolized knowledge and I am working on a related review recently. Due to my growing interest, I would like to continue to do research on children's cognitive development during my graduate study and expand into the field of cognitive neuroscience.
-
-<br>
-## 吕建相
-
-![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/吕建相.jpg){:height="40%" width="40%"}
-
-- Email: lvjx6@mail2.sysu.edu.cn
-
-2015级本科生。主要的研究兴趣是婴幼儿逻辑推理（如婴儿什么时候能进行传递性推理，儿童的推理能力与数学学习的关系），婴幼儿对零的理解（如儿童什么时候才能把零当作是数字中的一员），儿童分数学习的特点等。
-
-<br>
-## Zhang, Wanting
-
-![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/张婉婷.jpg){:height="40%" width="40%"}
-
-- Email: zhangwt37@mail2.sysu.edu.cn
-
-I'm an undergraduate and ready to be a graduate student in 2020. My current project is about the cognitive development of fractions, focusing on the representation of symbolic and non-symbolic fractions. Main research interests include numerical cognition, learning, and mathematics education (including strengthening conceptual understanding and interest cultivation).
-
 
 
 # Graduated lab members include undergraduates and graduates (in alphabetical order by last name)
