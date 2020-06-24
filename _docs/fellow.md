@@ -66,6 +66,16 @@ The research topics that I’m interested in are the mental-mechanism difference
 
 2018级硕士研究生（单考班），现就职于中国移动集团中移在线服务有限公司，全国五一巾帼标兵，国家三级心理咨询师，家有萌宝一枚，成长型家庭教育实践者，个人公众号“麦田起舞”，专注女性个人成长分享及儿童教育心理学知识普及。
 热爱心理学，尤其儿童发展心理学，感兴趣的研究方向为：儿童数学与空间逻辑认知发展、儿童智力发展、儿童数能力与语言能力、性别差异及家庭学校教育方式等方面的关系。
+
+<br>
+## Lin, Wanjun
+
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/林婉君.png){:height="40%" width="40%"}
+
+- Email:835115067@qq.com
+
+A master student in Applied Psychology (class of 2022). I'm a quite sunny and extroverted person. My research interest is behavioral assessment and intervention for children with autism Spectrum Disorder (ASD) based on applied behavioral analysis. I hope I can apply what I have learned to help more people in need.
+
 <br>
 ##  Liu, Meiying
 
@@ -109,6 +119,21 @@ My name is Huomin Mao, I am interested in developmental psychology.[Click for CV
 ![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/娜菲沙.jpg){:height="40%" width="40%"}
 
 就读于中大心理系，2018级专硕。我喜欢看剧看书，偶尔会去游泳，很喜欢和小朋友打交道。目前的研究兴趣是文化和语言差异对儿童数理认知发展的影响。
+
+<br> 
+## Wang, Xuqing
+
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/王许晴.jpg){:height="40%" width="40%"}
+
+- Email: wangxuqing139@163.com
+
+A master student in Applied Psychology, class of in 2022。I got my Bachelor in Materials Science and Engineering，but got deeply attracted by the inherent power of Psychology.
+My research interests ：
+1. The development of children's cognitive abilities such as mathematics, logic and thinking；
+2. The influence of family educational concepts and methods on children's mathematics learning；
+3. The difference in mathematics cognition between normal children and autistic children.
+I want to get engaged in children's mathematics teaching and curriculum development in the future， so I am very happy to explore the mystery of children's number cognitive development together with my partners in BCD lab.
+
 <br>
 ## 曾丽萍
 
@@ -117,6 +142,15 @@ My name is Huomin Mao, I am interested in developmental psychology.[Click for CV
 - Email:victory88855@126.com
 
 18级应用心理学硕士研究生（单考班），高中教师，喜欢阅读文学，心理学，哲学等书籍，爱好瑜伽，爬山等，感兴趣的研究方向为：学校心理（学习动机、心理健康教育），青少年情绪障碍与心理健康，社会心理（亲密关系、两性差异等）。
+<br>
+## Zhang, Lin
+
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/张琳.png){:height="40%" width="40%"}
+
+- Email:2901493954@qq.com
+
+I am a master student in Applied Psychology, class of 2022. I enjoy getting along with children and have hope and goodwill towards the world and others. During my undergraduate years, I explored my interest in psychology, and now I am more interested in behavioral intervention for individuals with autism spectrum disorder. I will mainly study and explore the rehabilitation education methods for children with autism spectrum disorder in my master years and plan to devote myself to the special children education in the future.
+
 <br>
 ## Zhou, Ling
 
