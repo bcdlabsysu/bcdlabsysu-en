@@ -14,13 +14,13 @@ last_modified_at: 2020-06-09T19:00:00+08:00
 
 - Email: mouyi5@mail.sysu.edu.cn
 
-主要研究兴趣包括数、物体、空间认知及逻辑推理从婴儿到成人的毕生发展；特殊儿童（如自闭症）的认知发展；研究采用行为和脑电等多种测量方法。
+I mainly focus on (a) infant, child, and adult lifespan development of cognition among math, objects, and spatial reasoning; and (b) cognitive development of children with special needs (e.g., ASD children). Multiple methods are adopted in my research such as EEG and behavioral methods.
 
-任职经历：
+Work Experience：
 
-- 2017-至今  中山大学心理学系副教授（博导）
+- 2017-present  Associate Professor, Psychology, Sun Yat-sen University
 
-- 2014-2017 美国伊利诺大学香槟校区心理学系（博士后）
+- 2014-2017  Postdoc, Psychology, University of Illinois at Urbana-Champaign, USA
 
 <br>
 ## Li, Xueyan
@@ -29,13 +29,13 @@ last_modified_at: 2020-06-09T19:00:00+08:00
 
 - Email: lixy563@mail.sysu.edu.cn
 
-Interest areas include child emotion regulation, adult emotion regulation strategy use, and emotion and cognitive development among ASD children.
+My interest areas include child emotion regulation, adult emotion regulation strategy use, and emotion and cognitive development among ASD children.
 
 Education background：
 
-- 2020-present  Post-doc in Psychology, Sun Yat-sen University
+- 2020-present  Post-doc, Psychology, Sun Yat-sen University
 
-- 2016-2019 Ph.D. Educational Psychology, University of Arizona, USA
+- 2016-2019  Ph.D., Educational Psychology, University of Arizona, USA
 
 
 # Master Students (in alphabetical order by last name)
