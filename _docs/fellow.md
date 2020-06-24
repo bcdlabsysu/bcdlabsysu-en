@@ -70,7 +70,7 @@ The research topics that I’m interested in are the mental-mechanism difference
 <br>
 ## Lin, Wanjun
 
-![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/林婉君.png){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/林婉君.jpeg){:height="40%" width="40%"}
 
 - Email:835115067@qq.com
 
@@ -145,7 +145,7 @@ I want to get engaged in children's mathematics teaching and curriculum developm
 <br>
 ## Zhang, Lin
 
-![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/张琳.png){:height="40%" width="40%"}
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/张琳.jpeg){:height="40%" width="40%"}
 
 - Email:2901493954@qq.com
 
