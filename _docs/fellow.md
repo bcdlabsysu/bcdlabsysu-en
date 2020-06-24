@@ -104,16 +104,6 @@ A master student in applied psychology. I am an optimistic and outgoing girl fro
 My name is Liu Qin. I am a master student in psychology, class of 2023. The topic I am focusing on is the cognitive development of children, especially the development and cognitive mechanisms of mathematical ability in early childhood. I would like to continue to do research on children's cognitive development during my graduate study and expand into the field of cognitive neuroscience.
 I am doing two research in the field of mathematical development. One mainly uses behavior method to study the number cognitive development among infants, that is, the development trend of number differentiation ability with age; another study looks at the numerical abilities of high-functioning autistic children, and how they are different and similar to typically developing children. The study of symbolic and non-symbolic quantitative representation is a major focus in the field of mathematics. Although the fraction is a major difficulty in education, it has received little attention. I am deeply interested in the relationship between the non-symbolization of fractions and symbolized knowledge and I am working on a related review recently. 
 
-
-<br>
-## 吕建相
-
-![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/吕建相.jpg){:height="40%" width="40%"}
-
-- Email: lvjx6@mail2.sysu.edu.cn
-
-2020级学硕。主要的研究兴趣是婴幼儿逻辑推理（如婴儿什么时候能进行传递性推理，儿童的推理能力与数学学习的关系），婴幼儿对零的理解（如儿童什么时候才能把零当作是数字中的一员），儿童分数学习的特点等。
-
 <br>
 ## Ma, Yimei
 
@@ -239,6 +229,17 @@ An undergraduate student in applied meteorology, School of Atmospheric Science, 
 - Email: liumt8@mail2.sysu.edu.cn
 
 An undergraduate student (class of 2020), sometimes a girly girl and sometimes a tomboy. Research interests: the representation and processing of non-symbolized quantities across sensory channels and their cognitive neural mechanisms; number cognitive development in infants and young children (e.g., the difference in number cognitive development between autistic children and typically developing children); and the application of new machines such as computers in psychology.
+
+# Cooperated Graduates
+
+<br>
+## 吕建相
+
+![](https://bcdlabsysu.github.io/bcdlabsysu/assert/images/吕建相.jpg){:height="40%" width="40%"}
+
+- Email: lvjx6@mail2.sysu.edu.cn
+
+2020级学硕。主要的研究兴趣是婴幼儿逻辑推理（如婴儿什么时候能进行传递性推理，儿童的推理能力与数学学习的关系），婴幼儿对零的理解（如儿童什么时候才能把零当作是数字中的一员），儿童分数学习的特点等。
 
 
 # Graduated lab members include undergraduates and graduates (in alphabetical order by last name)
