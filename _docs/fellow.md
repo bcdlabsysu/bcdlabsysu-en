@@ -33,7 +33,7 @@ My interest areas include child emotion regulation, adult emotion regulation str
 
 Education background：
 
-- 2020-present  Post-doc, Psychology, Sun Yat-sen University
+- 2020-present  Postdoc, Psychology, Sun Yat-sen University
 
 - 2016-2019  Ph.D., Educational Psychology, University of Arizona, USA
 
